@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Superhero Movie Ratings"
+title: "Movie Ratings: Superhero Edition"
 description: "Which supers are super."
-date: 2018-05-23 21:00:00
+date: 2018-05-23 02:00:00 -0400
 ---
 # The Scale
 
@@ -29,6 +29,7 @@ date: 2018-05-23 21:00:00
 ## A
 - MCU
 	- Ant-Man
+    - Avengers: Infinity War
 	- Captain America: Winter Soldier
 	- Guardians of the Galaxy Vol 2
 	- Iron Man
@@ -44,7 +45,7 @@ date: 2018-05-23 21:00:00
     - Avengers: Age of Ultron
     - Captain America: The First Avenger
     - Doctor Strange
-    - Incredible Hulk
+    - The Incredible Hulk
     - Iron Man 3
     - Thor
 - Hellboy

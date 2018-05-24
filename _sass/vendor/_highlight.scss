@@ -18,7 +18,8 @@ green     #859900  operators, other keywords
 
 pre, code {
     @include ff--code;
-    @include fs--code;
+    font-size: 2rem;
+    line-height: 1.5;
 }
 
 .highlight {
@@ -108,4 +109,3 @@ span.lineno {
 .highlight .vg { color: #268bd2 } /* Name.Variable.Global */
 .highlight .vi { color: #268bd2 } /* Name.Variable.Instance */
 .highlight .il { color: #2aa198 } /* Literal.Number.Integer.Long */
-
