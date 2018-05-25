@@ -6,11 +6,11 @@ css_class: ratings
 ---
 # The Scale
 
-- __A's:__ Every one of these is solid. Worth watching more than once. Some are masterpieces.
-- __B's:__ Flawed, but still worth watching. Maybe even rewatching.
-- __C's:__ Might be worth watching. But only once. And you might regret it.
-- __D's:__ Just bad. Don't bother.
-- __F's:__ Actively painful. Only worth watching ironically.
+- __As:__ Every one of these is solid. Worth watching more than once. Some are masterpieces.
+- __Bs:__ Flawed, but still worth watching. Maybe even rewatching.
+- __Cs:__ Might be worth watching. But only once. And you might regret it.
+- __Ds:__ Just bad. Don't bother.
+- __Fs:__ Actively painful. Only worth watching ironically.
 
 # The Ratings
 
