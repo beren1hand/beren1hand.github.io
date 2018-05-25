@@ -81,7 +81,7 @@ svg {
 }
 
 .center {
-  text-align: center; 
+  text-align: center;
 }
 
 /* Links */
@@ -95,7 +95,7 @@ a {
     display: inline-block;
     padding: 5px 1px;
     transition: color ease 0.3s;
-    
+
     /* Hover animation effect for all buttons */
     &::after {
       content: '';
@@ -123,14 +123,14 @@ a.no-hov {
 	&:after {
 		content: none
 	}
-	
+
 	&:hover {
 		color: $c-accent__darkblue
 	}
 }
 
 a.nav {
-  padding: 10px 35px;  
+  padding: 10px 35px;
   overflow:hidden;
 }
 a.nav:before {
@@ -144,7 +144,7 @@ a.nav:before {
 
 abbr[title] { border-bottom: 1px dotted; }
 b, strong   { font-weight: bold; }
-i, em       { font-weight: italic; }
+i, em       { font-weight: 400; }
 
 /* Content */
 
@@ -172,4 +172,3 @@ code, pre {
 small {
         color: gray;
 }
-
