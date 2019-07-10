@@ -32,6 +32,7 @@ css_class: ratings
     - Deadpool
     - Incredibles
     - Logan
+    - Spider-Man: Into the Spider-Verse
 
 ## A
 - ### Star Wars
