@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Movie Ratings: Combo Edition Summer 2019"
+title: "Movie Ratings: Summer 2019 Edition"
 description: "Post MCU Phase 3"
 css_class: ratings
 ---
