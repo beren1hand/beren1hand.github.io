@@ -65,10 +65,12 @@ css_class: ratings
         - Thor
         - Ant-Man and the Wasp
         - Captain Marvel
+    - Tim Burton's Batman
     - Hellboy
     - Man of Steel
     - The Amazing Spiderman
-    - Tim Burton's Batman
+    - Aquaman
+    - Deadpool 2
 
 ## B+
 - ### Star Wars
