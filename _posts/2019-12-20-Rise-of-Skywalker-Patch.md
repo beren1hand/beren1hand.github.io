@@ -3,9 +3,7 @@ layout: post
 title: "The Rise of Skywalker - Patched"
 description: "How I would have done it"
 ---
-# The Rise of Skywalker - Patched
-
-## What I wish we'd seen...
+## What I wish we'd seen:
 
 - Kylo goes full on Dark Side, but has no mentor, so he parallels the journey of Luke and seeks out the first Sith temple based on stuff he found in Snoke’s belongings
   - When he arrives, he discovers that Snoke had somehow resurrected Palpatine, and was drawing power away from him using torture
