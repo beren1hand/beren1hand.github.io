@@ -5,7 +5,7 @@ description: "How I would have done it"
 ---
 # The Rise of Skywalker - Patched
 
-What I wish we'd seen...
+## What I wish we'd seen...
 
 - Kylo goes full on Dark Side, but has no mentor, so he parallels the journey of Luke and seeks out the first Sith temple based on stuff he found in Snoke’s belongings
   - When he arrives, he discovers that Snoke had somehow resurrected Palpatine, and was drawing power away from him using torture
@@ -27,7 +27,7 @@ What I wish we'd seen...
     - Using it, Rey and Kylo teach each other, and discover the deeper nature of the Force
     - They beat Palpatine, get married, and lead the New Order together as a balanced pair
 
-Things I would have kept, but done differently:
+## Things I would have kept, but done differently:
 
 - Rey kills Chewie
   - The ship crashes, she runs in to get him, he dies in her arms
@@ -41,7 +41,7 @@ Things I would have kept, but done differently:
 - Lando
   - Show him using his charm and wit to recruit the new fleet
 
-Things I liked, but didn't get developed at all, and should have been given substantially more time or cut:
+## Things I liked, but didn't get developed at all, and should have been given substantially more time or cut:
 
 - Basically all the new characters
   - Zorii Bliss
