@@ -140,45 +140,18 @@ administration over the last few days, that seems extremely unlikely.
 
 **Yes.**
 
-## Just Cause
+I understand that my claim here will strike some as ludicrous.
 
-Iran is one of the world's political hot spots. I don't claim to be an expert
-here, and I have nothing novel to contribute to the debate of how the US should
-relate to Iran.
 
-I will merely recall some of the key lessons I have learned as a lay person. These lessons are, to the best of my knowledge, uncontroversial:
 
-- Multiple nations are ruled by governments who regularly do horrific things
-with questionable support from their citizens.
-  - Iran and North Korea are two of the most obvious cases.
-- US military action in pursuit of regime change in these nations is dangerous
-and has a tendency to backfire.
-  - Iraq is the obvious case here. The country has been deeply unstable ever
-  since we removed Saddam Hussein (who was awful) from power.
-  - The rise of the Islamic State (aka ISIS, which is terrible in every way), can
-  be directly traced to this instability.
-- Several nations (Iran in particular) believe that continued US military
-presence in the Middle East (Iraq in particular) is an illegitimate occupation.
-  - And thus, feel justified in working to undermine our presence.
-- Small rocket attacks against the US and its allies (Israel in particular) are
-commonplace.
-  - If we responded with military strength to every provocation of this sort, we
-  would have to fight a lot more wars than we actually do.
-  - These wars would be unlikely to bring stability to the region.
-
-### The Killing of General Soleimani
+Trump's recent actions demonstrate little to no concern for critical constraints
+on the methods of warfare.
 
 
 
 
 
-I have **Just Cause** and **Just Means** concerns about Trump's recent actions.
 
-However, my **Just Cause** concerns are of the sort that I understand how
-reasonable, well-intentioned people might disagree about them.
-
-My **Just Means** concerns, on the other hand, are different. Trump's recent
-actions demonstrate little to no concern for critical constraints on
-the methods of warfare. In my view, this fundamentally disqualifies him as a
+In my view, this fundamentally disqualifies him as a
 morally or politically legitimate leader, and renders any further political
 support of him to be morally illegitimate.
