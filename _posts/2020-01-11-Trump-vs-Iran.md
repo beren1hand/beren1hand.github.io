@@ -22,14 +22,6 @@ In brief, Just War Theory states that there are times when it is morally
 permissible to fight a war, but there are stringent rules in place that govern
 **when** and **how** war may be fought.
 
-### Ethics and/or International Law
-
-One thing I should note is that I am an ethicist, not a lawyer. These are
-fundamentally different, though related, fields. For example, the moral
-wrongness of slavery provides reasons to make laws against slavery, but slavery
-would be morally wrong even if there were no law against it. I will be
-approaching Just War Theory primarily as a view in ethics, though it will be
-important to discuss some laws along the way.
 
 ### When War is Allowed (*Jus Ad Bellum*, Just Cause for War)
 
@@ -41,6 +33,7 @@ a war must be undertaken:
 - Proportionally to what is at stake
 - As a last resort
 - By a legitimate authority
+
 
 ### How to Fight a War (*Jus in Bello*, Just Means of Warfare)
 
@@ -60,7 +53,10 @@ With Just War Theory (JWT) in scope, let us consider two questions.
 **Maybe. (But probably not.)**
 
 There is no doubt that if we were already at war with Iran, General Soleimani
-would (at least in principle) count as a legitimate military target. But, thankfully,  we are not (yet) at war with Iran. Let's see if we have Just Cause:
+would (at least in principle) count as a legitimate military target. But,
+thankfully,  we are not (yet) at war with Iran.
+
+Let's see if we can establish Just Cause:
 
 ### 1. War must be undertaken for the right kinds of reasons
 
@@ -219,11 +215,12 @@ comparable threat. If ISIS made a credible threat to blow up the Statue of
 Liberty, this certainly would be labeled as terrorism, and offered as
 justification for pre-emptive military action to prevent it.
 
+
 ## The Retraction
 
 Thankfully, Trump did not attempt to carry out his threat.
 
-If it had, I am fairly confident that someone in the chain of command would have
+If he had, I am fairly confident that someone in the chain of command would have
 refused to follow the order, since [international and US law both clearly forbid
 the targeting of cultural sights](
 https://www.hrw.org/news/2020/01/05/us-trump-threatens-war-crimes-against-iran).
@@ -236,14 +233,13 @@ Someone seems to have successfully explained this to Trump because he did
 
 # Conclusion
 
-Every Islamic terrorist organization on the planet fuels it's recruitment by
+Every Islamic terrorist organization on the planet drives recruitment by
 fueling fear of the United States. Fear that our country is out to destroy Islam
 itself. Trump's terroristic threat to destroy Iranian cultural sights confirms
-this suspicion, and now serves as public record that he has little to no personal
-concern for critical constraints on the methods of warfare.
+this suspicion, and now serves as public record that he has little to no
+personal concern for critical constraints on the methods of warfare.
 
 In my view, this fundamentally disqualifies him as a politically legitimate
-leader, and renders any further political support of him to be morally
-illegitimate. Those who support Republican policies should seek throw Trump
-under the bus and do whatever they can to distance themselves from his morally
-bankrupt disregard for the ethics of warfare.
+leader. Those who support Republican policies should throw Trump under the bus
+and do whatever they can to distance themselves from his morally bankrupt
+disregard for the ethics of warfare.
