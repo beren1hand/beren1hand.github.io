@@ -221,7 +221,7 @@ justification for pre-emptive military action to prevent it.
 Thankfully, Trump did not attempt to carry out his threat.
 
 If he had, I am fairly confident that someone in the chain of command would have
-refused to follow the order, since [international and US law both clearly forbid the targeting of cultural sights](https://www.hrw.org/news/2020/01/05/us-trump-threatens-war-crimes-against-iran).
+refused to follow the order, since international and US law both clearly forbid the targeting of cultural sights. [See this helpful article from Human Rights Watch](https://www.hrw.org/news/2020/01/05/us-trump-threatens-war-crimes-against-iran).
 
 Someone seems to have successfully explained this to Trump because he did
 (half-heartedly) retract his threat a few days later:
