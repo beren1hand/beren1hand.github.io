@@ -153,8 +153,8 @@ has been written about the nature of
 
 For my purposes, I will adopt the following definition:
 
-> Terrorism is coercion by threat or use of force directed at non-combatants in
-order to achieve a political goal.
+**Terrorism is coercion by threat or use of force directed at non-combatants in
+order to achieve a political goal.**
 
 Since the principles governing Just Means strictly forbid the direct targeting of
 non-combatants, all forms of terrorism are forbidden by JWT.
@@ -221,9 +221,7 @@ justification for pre-emptive military action to prevent it.
 Thankfully, Trump did not attempt to carry out his threat.
 
 If he had, I am fairly confident that someone in the chain of command would have
-refused to follow the order, since international and US law both [clearly forbid
-the targeting of cultural sights](
-https://www.hrw.org/news/2020/01/05/us-trump-threatens-war-crimes-against-iran).
+refused to follow the order, since [international and US law both clearly forbid the targeting of cultural sights](https://www.hrw.org/news/2020/01/05/us-trump-threatens-war-crimes-against-iran).
 
 Someone seems to have successfully explained this to Trump because he did
 (half-heartedly) retract his threat a few days later:
