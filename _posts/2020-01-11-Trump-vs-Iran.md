@@ -74,7 +74,7 @@ self-defense.
 
 But this is dangerous territory. Pre-emption requires knowledge of the future,
 and that is hard to come by. The Iraq War began in 2003 (with bi-partisan
-Congressional support) under the justification that Saddam Hussein possessed  
+Congressional support) under the justification that Saddam Hussein possessed
 WMDs. History has shown that he did not. If this was an honest mistake, then
 the Iraq War can be thought of as an accidental moral lapse. If we should have
 known better (which most scholars now believe), then we started a war without
@@ -153,15 +153,15 @@ has been written about the nature of
 
 For my purposes, I will adopt the following definition:
 
-`Terrorism is coercion by threat or use of force directed at non-combatants in
-order to achieve a political goal.`
+> Terrorism is coercion by threat or use of force directed at non-combatants in
+order to achieve a political goal.
 
 Since the principles governing Just Means strictly forbid the direct targeting of
 non-combatants, all forms of terrorism are forbidden by JWT.
 
 ### The Offending Tweet
 
-`Iran is talking very boldly about targeting certain USA assets as revenge for
+> Iran is talking very boldly about targeting certain USA assets as revenge for
 our ridding the world of their terrorist leader who had just killed an
 American, & badly wounded many others, not to mention all of the people he had
 killed over his lifetime, including recently hundreds of Iranian protesters. He
@@ -171,7 +171,7 @@ a WARNING that if Iran strikes any Americans, or American assets, we have
 targeted 52 Iranian sites (representing the 52 American hostages taken by Iran
 many years ago), some at a very high level & important to Iran &  the Iranian
 culture, and those targets, and Iran itself, WILL BE HIT VERY FAST AND VERY
-HARD. The USA wants no more threats!`
+HARD. The USA wants no more threats!
 [@realDonaldTrump, Jan 4](
   https://twitter.com/realdonaldtrump/status/1213593975732527112)
 
@@ -195,9 +195,9 @@ not clarify his intent in this way.
 
 Instead, he doubled down:
 
-`They’re allowed to kill our people. They’re allowed to torture and maim our
+>They’re allowed to kill our people. They’re allowed to torture and maim our
 people. They’re allowed to use roadside bombs and blow up our people. And we’re
-not allowed to touch their cultural sites? It doesn’t work that way.`
+not allowed to touch their cultural sites? It doesn’t work that way.
 
 Like it or not, President Trump, it really does work that way.
 
@@ -221,14 +221,14 @@ justification for pre-emptive military action to prevent it.
 Thankfully, Trump did not attempt to carry out his threat.
 
 If he had, I am fairly confident that someone in the chain of command would have
-refused to follow the order, since [international and US law both clearly forbid
+refused to follow the order, since international and US law both [clearly forbid
 the targeting of cultural sights](
 https://www.hrw.org/news/2020/01/05/us-trump-threatens-war-crimes-against-iran).
 
 Someone seems to have successfully explained this to Trump because he did
 (half-heartedly) retract his threat a few days later:
 
-`And you know what, if that’s what the law is, I like to obey the law. But think of it — they kill our people. They blow up our people, then we have to be gentle with their cultural institutions. But I’m okay with it. It’s okay with me.`
+> And you know what, if that’s what the law is, I like to obey the law. But think of it — they kill our people. They blow up our people, then we have to be gentle with their cultural institutions. But I’m okay with it. It’s okay with me.
 
 
 # Conclusion
