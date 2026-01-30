@@ -307,7 +307,7 @@ No, Renee Good and Alex Pretti were not domestic terrorists, as there is no evid
 
 No, ICE is not like the Gestapo, as it enforces immigration laws within a democratic framework with oversight, differing fundamentally from the Gestapo's role in ideological suppression and genocide under a totalitarian regime, though concerns about recruitment and tactics warrant scrutiny.
 
-# 
+ 
 
 # Prompt 3
 
