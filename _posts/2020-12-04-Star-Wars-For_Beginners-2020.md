@@ -168,22 +168,9 @@ especially in the middle, but personally, I love it.
 I think The Rise of Skywalker is the worst part of Star Wars so far:
 substantially worse than the Prequels. It took all the promise of Episodes 7 and
 8 and squandered it. There are a couple of cool things here, but it feels more
-like a series of video game quests than an actual film. Still, you should watch
+like a series of video game quests than an actual film. Still, you should maybe watch
 it, because future content will assume that you have.
-
-# The Complete Path
-
-You should probably watch at least one more thing, because it will likely tie
-in to future content.
-
-- Solo
 
 # The Dark Path
 
 - The Holiday Special
-
-
-# The Best Path
-
-Don't end there. Go back and watch some highlights. In particular:
--
